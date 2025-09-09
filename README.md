@@ -1,0 +1,1 @@
+## This repository cintains mock practice of python and some end to end machine learning projects
