@@ -1,3 +1,0 @@
-"""
-Ayesha is a teacher, 
-"""
